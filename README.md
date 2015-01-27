@@ -7,4 +7,3 @@ UI: android.support.v4.widget.DrawerLayout & SwipeRefreshLayout & android.suppor
 Open source projects：Volley
 
 Thanks for stormzhang's 9GAG(https://github.com/stormzhang/9GAG).
-Browse articles from web (www.seasonsread.sinaapp.com)
